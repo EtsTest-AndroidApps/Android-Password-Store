@@ -55,3 +55,5 @@ include("openpgp-ktx")
 include("passgen:diceware")
 
 include(":passgen:random")
+
+include("ssh")
